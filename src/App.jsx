@@ -59,7 +59,7 @@ export function App() {
         <div className="row">
           <div className="col-4">
             <Logo
-              title="Watowatch"
+              title="Cine Best"
               subtitle="Find a show you may like"
               image={logoImg}
             />
